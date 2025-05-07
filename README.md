@@ -1,14 +1,21 @@
 <div align="center">
+---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
+---
 # Namaste 🙏🏽  
 ## My name is Arun Mundackal  
 ### (GenjutsYou)
 
 <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
 </div>
+
 
 ---
 
@@ -17,6 +24,8 @@
 </p>
 
 ---
+
+</div>
 
 ## 👋🏽 About Me
 
@@ -28,6 +37,12 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 - 🌱 Currently learning: Game development frameworks and advanced React  
 - 👾 Gamer tag: GenjutsYou  
 - 🚀 Shoot for the stars!  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
 
 ---
 
@@ -79,6 +94,12 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Description | Tech Stack | Demo/Repo |
@@ -91,11 +112,23 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </p>
 
 ---
@@ -156,3 +189,8 @@ The University of Arizona - 2023
 <p align="center">
   <b>Thank you for visiting my profile! Let's connect and build something amazing together.</b>
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
+</div>
+
