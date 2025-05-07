@@ -1,4 +1,5 @@
 <div align="center">
+
 ---
 
 <p align="center">
@@ -6,6 +7,7 @@
 </p>
 
 ---
+
 # Namaste 🙏🏽  
 ## My name is Arun Mundackal  
 ### (GenjutsYou)
