@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
 </div>
+</div>
 
 
 ---
@@ -27,7 +28,6 @@
 
 ---
 
-</div>
 
 ## 👋🏽 About Me
 
@@ -38,7 +38,13 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 - ⚡ Fun fact: I bring creativity from both tech and visual merchandising to my projects.
 - 🌱 Currently learning: Game development frameworks and advanced React  
 - 👾 Gamer tag: GenjutsYou  
-- 🚀 Shoot for the stars!  
+- 🎮 Currently Playing:
+- Rocket League
+- Fortnite
+- Hogwarts Legacy
+
+🚀 Shoot for the stars!
+
 
 ---
 
@@ -145,20 +151,7 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 
 ## 👥 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arun-mundackal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arun%20Mundackal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:arunmundackal7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arunmundackal7@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://slack.com">
-    <img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white" />
-  </a>
-</p>
+<table align="center"> <tr> <td align="center"><b>Socials</b></td> <td align="center"><b>Community</b></td> </tr> <tr> <td align="center"> <a href="https://www.linkedin.com/in/arun-mundackal/"> <img src="https://img.shields.io/badge/LinkedIn-Arun%20Mundackal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <br/> <a href="mailto:arunmundackal7@gmail.com"> <img src="https://img.shields.io/badge/Email-arunmundackal7@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </td> <td align="center"> <a href="https://discord.com/users/977147280429834300"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <br/> <a href="https://slack.com"> <img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white" /> </a> </td> </tr> </table>
 
 ---
 
@@ -192,7 +185,7 @@ The University of Arizona - 2023
   <b>Thank you for visiting my profile! Let's connect and build something amazing together.</b>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
-</div>
+</p>
 
