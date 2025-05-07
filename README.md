@@ -1,15 +1,19 @@
-<p align="center">
-  <h1>Namaste 🙏🏽</h1>
-  <h2>My name is Arun Mundackal</h2>
-  <h3>(GenjutsYou)</h3>
-</p>
+<div align="center">
+
+# Namaste 🙏🏽  
+## My name is Arun Mundackal  
+### (GenjutsYou)
+
+<img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </p>
 
 ---
@@ -18,16 +22,18 @@
 
 I'm a versatile full stack developer specializing in the MERN stack, passionate about building scalable, user-focused applications and integrating my love for gaming into my work.
 
+
+- ☁️ Ask me about: Full stack web apps, MERN, and game dev!  
+- ⚡ Fun fact: I bring creativity from both tech and visual merchandising to my projects.
 - 🌱 Currently learning: Game development frameworks and advanced React  
 - 👾 Gamer tag: GenjutsYou  
-- 🚀 
-- 💬 Ask me about: Full stack web apps, MERN, and game dev!  
-- ⚡ Fun fact: I bring creativity from both tech and visual merchandising to my projects.
-
+- 🚀 Shoot for the stars!  
 
 ---
 
 ## 🛠️ Skills & Tools
+
+<p align="center">
 
 <table>
   <tr>
@@ -68,6 +74,8 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
     </td>
   </tr>
 </table>
+
+</p>
 
 ---
 
@@ -122,10 +130,10 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 ## 💼 Experience
 
 **Nike**  
-- Recognized for leadership and trained in Visual Merchandising Standards.
+- Strategically enhanced Visual Merchandising Standards.
 
 **EöS Fitness** 
-- Managed operations overnight, member support, and facility security.
+- Managed operations and facility security overnight.
 
 **Dignity Health**  
 - Monitored cardiac rhythms and report vitals for patient care.
