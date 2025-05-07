@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
 </p>
 
 ---
@@ -12,9 +12,10 @@
 
 ## My name is Arun Mundackal
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=GenjutsYou;Full+Stack+Developer;Front+End+Developer;UI/UX+Developer;Back+End+Developer;Game+Development+Enthusiast;To+Infinity+%26+Beyond" alt="Typing Animation" />
 </div>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
@@ -102,6 +103,8 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
   <img src="https://komarev.com/ghpvc/?username=GenjutsYou&color=00FF41&style=flat-square" alt="Profile Views" />
 </p>
 
+I see you seen this!
+
 ---
 
 ## 👥 Connect With Me
@@ -144,7 +147,7 @@ The University of Arizona - 2023
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix Code Rain" width="600" />
+  <img src="https://giphy.com/gifs/matrix-christopher-pindling-spaced-out-bandits-5iWX6XFTndU0YP0Yut" alt="Choice" width="600" />
 </div>
 
 
