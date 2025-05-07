@@ -66,13 +66,16 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 
 ## 📂 Featured Projects
 
-| Project                    | Description                                                                | Tech Stack                | Demo/Repo                                              |
-| -------------------------- | -------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------ |
-| **Social Network (NoSQL)** | API for a social network startup, handling users, thoughts, and reactions. | Node.js, Express, MongoDB | [Repo](https://github.com/GenjutsYou/social-network)   |
-| **Employee Tracker**       | Command-line app for managing company employee data.                       | Node.js, MySQL, Inquirer  | [Repo](https://github.com/GenjutsYou/employee-tracker) |
-| **Note-Taker**             | App for writing and saving notes with RESTful API endpoints.               | Express, JSON             | [Repo](https://github.com/GenjutsYou/note-taker)       |
+| Project                | Description                                      | Tech Stack                 | Demo / Repo                                                                                     |
+|------------------------|------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------|
+| **Social Network (NoSQL)** | API for a social network startup, handling users, thoughts, and reactions. | Node.js, Express, MongoDB  | [Demo](https://drive.google.com/file/d/1bJNmfo6pgv4tKzGrMaz3l_-0DbfCzs1O/view) / [Repo](https://github.com/GenjutsYou/social-network) |
+| **Employee Tracker**    | Command-line app for managing company employee data. | Node.js, MySQL, Inquirer   | [Demo](https://drive.google.com/file/d/1dTCpmAB8sSkWYCAX3y6JECbTGgeQHwrS/view) / [Repo](https://github.com/GenjutsYou/employee-tracker) |
+| **Note-Taker**          | App for writing and saving notes with RESTful API endpoints. | Express, JSON              | [Repo](https://github.com/GenjutsYou/note-taker)                                                |
+| **Weather Dashboard**   | Interactive dashboard displaying weather data for searched cities. | JavaScript, APIs           | [Live Demo](https://genjutsyou.github.io/weather-dashboard/)                                   |
+| **ECommerce Back-End**  | Back-end API for e-commerce platform with product and order management. | Node.js, Express, MySQL    | [Demo](https://drive.google.com/file/d/1bDswax0frqsmw5cRYDISVSAZUvEaRXvI/view)                 |
 
-> _Each project features clean code, clear documentation, and a focus on user experience._
+> *Each project features  user experience.*
+
 
 ---
 
@@ -147,7 +150,8 @@ The University of Arizona - 2023
 </p>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/matrix-christopher-pindling-spaced-out-bandits-5iWX6XFTndU0YP0Yut" alt="Choice" width="600" />
+  <img src="https://media.giphy.com/media/5iWX6XFTndU0YP0Yut/giphy.gif" alt="Choice" width="600" />
 </div>
+
 
 
