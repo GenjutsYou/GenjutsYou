@@ -17,8 +17,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
 </div>
-</div>
-
 
 ---
 
@@ -186,6 +184,7 @@ The University of Arizona - 2023
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=GenjutsYou;Full+Stack+Developer;Game+Development+Enthusiast;Creative+Problem+Solver;Team+Player+%26+Self-Starter" alt="Typing Animation" />
 </p>
+</div>
 
