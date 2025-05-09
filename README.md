@@ -249,4 +249,3 @@ The University of Arizona - 2023
        style="max-width: 100%; height: auto;" />
 </div>
 
-
