@@ -13,7 +13,7 @@
 ## My name is Arun Mundackal
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=GenjutsYou;I+Am+A+Full+Stack+Developer;I+Am+A+Front+End+Developer;I+Am+A+UI/UX+Developer;I+Am+A+Back+End+Developer;I+Am+A+Graphic+Designer;A+Game+Development+Enthusiast;To+Infinity+%26+Beyond" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=I+Am+A+Software+Engineer;I+Am+A+Full+Stack+Developer;I+Am+A+Front+End+Developer;I+Am+A+UI/UX+Developer;I+Am+A+Back+End+Developer;I+Am+A+Graphic+Designer;A+Game+Development+Enthusiast;To+Infinity+%26+Beyond" 
        alt="Typing Animation"
        style="max-width: 100%; height: auto;" />
 </div>
@@ -186,13 +186,6 @@ I see you seen this!
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" alt="Bepop" width="300" />
 </div>
 
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
-
 ---
 
 ## 👥 Connect With Me
@@ -220,12 +213,6 @@ I see you seen this!
 **Dignity Health**
 
 - Monitored cardiac rhythms and report vitals for patient care.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
 
 ---
 
