@@ -188,6 +188,12 @@ I see you seen this!
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
+---
+
 ## 👥 Connect With Me
 
 <table align="center"> <tr> <td align="center"><b>Socials</b></td> <td align="center"><b>Community</b></td> </tr> <tr> <td align="center"> <a href="https://www.linkedin.com/in/arun-mundackal/"> <img src="https://img.shields.io/badge/LinkedIn-Arun%20Mundackal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <br/> <a href="mailto:arunmundackal7@gmail.com"> <img src="https://img.shields.io/badge/Email-arunmundackal7@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </td> <td align="center"> <a href="https://discord.com/users/977147280429834300"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <br/> <a href="https://slack.com"> <img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white" /> </a> </td> </tr> </table>
