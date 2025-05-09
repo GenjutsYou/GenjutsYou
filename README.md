@@ -65,6 +65,10 @@ Computer Science | Software Engineer
 
 🚀 Shoot for the stars!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif" alt="Gamer" width="600" />
+</div>
+
 ---
 
 <p align="center">
@@ -128,6 +132,11 @@ Computer Science | Software Engineer
 </p>
 
 I see you seen this!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" alt="Bepop" width="600" />
+</div>
+
 
 ---
 
