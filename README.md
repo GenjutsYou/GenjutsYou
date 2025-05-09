@@ -134,7 +134,7 @@ Computer Science | Software Engineer
 I see you seen this!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" alt="Bepop" width="600" />
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" alt="Bepop" width="150" />
 </div>
 
 
