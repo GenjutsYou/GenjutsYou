@@ -18,7 +18,6 @@
        style="max-width: 100%; height: auto;" />
 </div>
 
-
 <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 
 ---
@@ -54,14 +53,15 @@ My passions include the following: art, science, sound, literature, computers, y
 🎨 **Tools:**  
 Adobe Creative Suite, Canva, Figma
 
-👾 **Gamer Tag:** 
+👾 **Gamer Tag:**
 GenjutsYou
 
-🎮 **Currently Playing:**  
-  - Rocket League  
-  - Fortnite  
-  - GTA V  
-  - Hogwarts Legacy  
+🎮 **Currently Playing:**
+
+- Rocket League
+- Fortnite
+- GTA V
+- Hogwarts Legacy
 
 <div align="center">
   <img src="https://media.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif" alt="Gamer" width="600" />
@@ -87,48 +87,51 @@ GenjutsYou
       <td align="center"><b>Database</b></td>
       <td align="center"><b>Dev Tools / Other</b></td>
     </tr>
-    <tr>
+    <tr align="center">
       <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+        <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+        <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+        <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
+        <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/></a>
+        <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+        <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+        <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/JWT-FF0000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=black"/></a>
+        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+        <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
+        <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/></a>
+        <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-FF0000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
+        <a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/></a>
+        <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/MongoDB-00FF41?style=for-the-badge&logo=mongodb&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-00FF41?style=for-the-badge&logo=mongodb&logoColor=black"/></a>
+        <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Inquirer-4CAF50?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/></a>
+        <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/></a>
+        <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/Inquirer-4CAF50?style=for-the-badge"/></a>
+        <a href="https://insomnia.rest/"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/></a>
+        <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+        <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white"/></a>
+        <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+        <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
+        <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
       </td>
     </tr>
   </table>
 </p>
-
 
 ---
 
@@ -140,16 +143,15 @@ GenjutsYou
 
 ## 📂 Featured Projects
 
-| Project                | Description                                      | Tech Stack                 | Demo / Repo                                                                                     |
-|------------------------|------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------|
-| **Social Network (NoSQL)** | API for a social network startup, handling users, thoughts, and reactions. | Node.js, Express, MongoDB  | [Demo](https://drive.google.com/file/d/1bJNmfo6pgv4tKzGrMaz3l_-0DbfCzs1O/view) / [Repo](https://github.com/GenjutsYou/social-network) |
-| **Employee Tracker**    | Command-line app for managing company employee data. | Node.js, MySQL, Inquirer   | [Demo](https://drive.google.com/file/d/1dTCpmAB8sSkWYCAX3y6JECbTGgeQHwrS/view) / [Repo](https://github.com/GenjutsYou/employee-tracker) |
-| **Note-Taker**          | App for writing and saving notes with RESTful API endpoints. | Express, JSON              | [Repo](https://github.com/GenjutsYou/note-taker)                                                |
-| **Weather Dashboard**   | Interactive dashboard displaying weather data for searched cities. | JavaScript, APIs           | [Live Demo](https://genjutsyou.github.io/weather-dashboard/)                                   |
-| **ECommerce Back-End**  | Back-end API for e-commerce platform with product and order management. | Node.js, Express, MySQL    | [Demo](https://drive.google.com/file/d/1bDswax0frqsmw5cRYDISVSAZUvEaRXvI/view)                 |
+| Project                    | Description                                                                | Tech Stack                | Demo / Repo                                                                                                                             |
+| -------------------------- | -------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Social Network (NoSQL)** | API for a social network startup, handling users, thoughts, and reactions. | Node.js, Express, MongoDB | [Demo](https://drive.google.com/file/d/1bJNmfo6pgv4tKzGrMaz3l_-0DbfCzs1O/view) / [Repo](https://github.com/GenjutsYou/social-network)   |
+| **Employee Tracker**       | Command-line app for managing company employee data.                       | Node.js, MySQL, Inquirer  | [Demo](https://drive.google.com/file/d/1dTCpmAB8sSkWYCAX3y6JECbTGgeQHwrS/view) / [Repo](https://github.com/GenjutsYou/employee-tracker) |
+| **Note-Taker**             | App for writing and saving notes with RESTful API endpoints.               | Express, JSON             | [Repo](https://github.com/GenjutsYou/note-taker)                                                                                        |
+| **Weather Dashboard**      | Interactive dashboard displaying weather data for searched cities.         | JavaScript, APIs          | [Live Demo](https://genjutsyou.github.io/weather-dashboard/)                                                                            |
+| **ECommerce Back-End**     | Back-end API for e-commerce platform with product and order management.    | Node.js, Express, MySQL   | [Demo](https://drive.google.com/file/d/1bDswax0frqsmw5cRYDISVSAZUvEaRXvI/view)                                                          |
 
-> *Each project features an interactive user experience.*
-
+> _Each project features an interactive user experience._
 
 ---
 
@@ -248,4 +250,3 @@ The University of Arizona - 2023
        alt="Typing Animation"
        style="max-width: 100%; height: auto;" />
 </div>
-
