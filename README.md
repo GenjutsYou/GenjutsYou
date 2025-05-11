@@ -1,9 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Counter" />
+  <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Profile Views" />
   <br>
-  <span>viewers</span>
+  <span style="color:#00FF41; font-weight:bold;">viewers</span>
 </p>
 
 ---
