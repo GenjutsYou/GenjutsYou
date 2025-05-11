@@ -241,6 +241,27 @@ GenjutsYou
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=radical" alt="Contribution Graph" height="200"/>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=GenjutsYou&style=flat-square&color=brightgreen" alt="Profile Views"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=radical" height="165" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=radical" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=radical" height="140"/>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=radical" height="200"/>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=GenjutsYou&style=flat-square&color=brightgreen" />
+</p>
+
+
 ---
 
 <p align="center">
