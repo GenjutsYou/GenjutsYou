@@ -1,8 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GenjutsYou&color=00FF41&style=flat-square" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Profile Views" />
 </p>
+
 
 ---
 
@@ -255,16 +256,27 @@ GenjutsYou
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/arun-mundackal/"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Mundackal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-      <a href="mailto:arunmundackal7@gmail.com"><img src="https://img.shields.io/badge/Email-arunmundackal7@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-      <a href="https://www.twitch.tv/genjutsyou"><img src="https://img.shields.io/badge/Twitch-genjutsyou-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+      <a href="https://www.linkedin.com/in/arun-mundackal/">
+        <img src="https://img.shields.io/badge/LinkedIn-Arun%20Mundackal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a><br>
+      <a href="mailto:arunmundackal7@gmail.com">
+        <img src="https://img.shields.io/badge/Email-arunmundackal7@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a><br>
+      <a href="https://www.twitch.tv/genjutsyou">
+        <img src="https://img.shields.io/badge/Twitch-genjutsyou-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+      </a>
     </td>
     <td align="center">
-      <a href="https://discord.com/users/977147280429834300"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-      <a href="https://slack.com"><img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/></a>
+      <a href="https://discord.com/users/977147280429834300">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+      </a><br>
+      <a href="https://slack.com">
+        <img src="https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+      </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
