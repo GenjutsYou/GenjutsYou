@@ -1,9 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Counter" />
+  <br>
+  <span>viewers</span>
 </p>
-
 
 ---
 
