@@ -204,8 +204,6 @@ GenjutsYou
 
 ## 🔎 Skills To Learn
 
-Here are the skills and tools currently commented out in your badges table, ranked by popularity and demand, with badges format preserved for easy adding/removing:
-
 ### Python  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
