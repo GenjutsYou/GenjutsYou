@@ -45,26 +45,16 @@ I'm a versatile full stack developer specializing in the MERN stack, passionate 
 Computer Science | Software Engineer  
 Web Design/Development · Front End · Back End · Full Stack · MERN Stack
 
-☁️ **Cloud**
-(cloud development or cloud related)
-
-⚡ **Spark**
-(inspiration and motivation)
-
 🎯 **Focus:**  
 Building robust, maintainable full stack applications with React, Node.js, Express, and MongoDB.  
 Experienced in REST APIs, UI/UX, and performance optimization.
 
-🌊 **Flow:**  
-Currently Learning:
-- Three.js for 3D web experiences
-- Unity for game development
 
 🌱 **Foundation:**  
-MERN stack mastery-React, Node.js, Express, MongoDB-plus a lifelong passion for learning and gaming.
+MERN stack - MongoDB, Express, React, Node.js.
 
 🎨 **Tools:**  
-Adobe Creative Suite, Canva, Figma, Sketch
+Adobe Creative Suite, Canva, Figma, Sketch.
 
 🔥 **Passions:**
 
@@ -83,8 +73,10 @@ Adobe Creative Suite, Canva, Figma, Sketch
   <img src="https://media.giphy.com/media/AhhGtrpj5ZxGZER5yC/giphy.gif" alt="Gamer" width="600" />
 </div>
 
+<p align="center">
 👾 **Gamer Tag:**
 GenjutsYou
+</p>
 
 🎮 **Currently Playing:**
 
@@ -214,12 +206,12 @@ GenjutsYou
   </table>
 </p>
 
-## 🔎 Skills To Learn
+## 🔎 Currently Learning
 
 ### Python  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-### Docker  
+<!-- ### Docker  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### AWS  
@@ -247,7 +239,7 @@ GenjutsYou
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 ### Google Cloud  
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/) -->
 
 <!-- ### Redis  
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
@@ -379,7 +371,7 @@ GenjutsYou
 
 ---
 
-## 💼 Experience
+<!-- ## 💼 Experience
 
 **Nike**
 
@@ -393,7 +385,7 @@ GenjutsYou
 
 - Monitored cardiac rhythms and report vitals for patient care.
 
----
+--- -->
 
 ## 🎓 Education
 
@@ -408,16 +400,17 @@ The University of Arizona - 2023
 
 ---
 
-<p align="center">
-  <b>Thank you for visiting my profile! Let's connect and build something amazing together.</b>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/5iWX6XFTndU0YP0Yut/giphy.gif" alt="Choice" width="600" />
-</div>
-
 <div style="display: flex; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Knock,+Knock" 
        alt="Typing Animation"
        style="max-width: 100%; height: auto;" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5iWX6XFTndU0YP0Yut/giphy.gif" alt="Choice" width="600" />
+</div>
+
+<p align="center">
+  <b>Thank you for visiting!</b>
+</p>
+
