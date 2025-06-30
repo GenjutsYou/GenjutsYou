@@ -400,7 +400,7 @@ The University of Arizona - 2023
 
 ---
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=Knock,+Knock" 
        alt="Typing Animation"
        style="max-width: 100%; height: auto;" />
