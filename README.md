@@ -178,6 +178,11 @@ GenjutsYou
         <!-- <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a> -->
         <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
       </td>
+      <!-- ===== GAME DEVELOPMENT ===== -->
+      <td align="center">
+       <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></a>
+       <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/></a>
+      </td>
     </tr>
   </table>
   <table>
@@ -204,18 +209,6 @@ GenjutsYou
         <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
         <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
         <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch"/></a>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td align="center"><b>Game Development</b></td>
-    </tr>
-    <tr>
-      <!-- ===== GAME DEVELOPMENT ===== -->
-      <td align="center">
-       <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></a>
-       <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/></a>
       </td>
     </tr>
   </table>
