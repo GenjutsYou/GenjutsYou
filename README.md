@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
@@ -23,25 +23,12 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" /> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=ambient_gradient" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=ambient_gradient" height="165" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=ambient_gradient" height="165"/>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=aura" height="140"/>
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=ambient_gradient" height="200"/>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=GenjutsYou&style=flat-square&color=brightgreen" />
-</p>
-
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
 </p>
-</div>
+</div> -->
 
 ---
 
@@ -89,11 +76,11 @@ Adobe Creative Suite, Canva, Figma, Sketch.
 - Fortnite
 - GTA V
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
-</p>
+</p> -->
 
 ---
 
@@ -286,11 +273,11 @@ Adobe Creative Suite, Canva, Figma, Sketch.
 [![Mercurial](https://img.shields.io/badge/Mercurial-0052CC?style=flat-square&logo=mercurial&logoColor=white)](https://www.mercurial-scm.org/) -->
 
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
+</p> -->
 
 ---
 
@@ -306,34 +293,34 @@ Adobe Creative Suite, Canva, Figma, Sketch.
 
 > _Each project features an interactive user experience._
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
-</p>
+</p> -->
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=ambient_gradient" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=ambient_gradient" height="165" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=ambient_gradient" height="165"/>
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=radical" height="140"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=aura" height="140"/>
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=radical" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=ambient_gradient" height="200"/>
   <br />
   <img src="https://komarev.com/ghpvc/?username=GenjutsYou&style=flat-square&color=brightgreen" />
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
-</p>
+</p> -->
 
 ---
 
@@ -368,11 +355,11 @@ Adobe Creative Suite, Canva, Figma, Sketch.
 </table>
 
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
-</p>
+</p> -->
 
 ---
 
@@ -397,11 +384,11 @@ Adobe Creative Suite, Canva, Figma, Sketch.
 **Full Stack Web Development – Coding Boot Camp**  
 The University of Arizona - 2023
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
+</p> -->
 
 ---
 
