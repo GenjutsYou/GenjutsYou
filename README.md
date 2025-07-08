@@ -4,15 +4,15 @@
   <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Profile Views" />
 </p> -->
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
+</p> -->
 
----
+<!-- ---
 
-# Namaste 🙏🏽
+# Namaste 🙏🏽 -->
 
 <!-- <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=I+Am+A+Software+Engineer;I+Am+A+Full+Stack+Developer;I+Am+A+Front+End+Developer;I+Am+A+UI/UX+Developer;I+Am+A+Back+End+Developer;I+Am+A+Graphic+Designer;A+Game+Development+Enthusiast;To+Infinity+%26+Beyond" 
@@ -34,20 +34,27 @@
 
 ## 👋🏽 About Me
 
-I'm a versatile full stack developer specializing in the MERN stack, passionate about building scalable, user-focused applications and integrating my love for gaming into my work.
+I'm a versatile full stack developer specializing in the MERN stack, focused on creating engaging solutions that unite my technical skills with my interests in gaming, design, and digital art.
 
 💻  **Core:**  
 Computer Science | Software Engineer  
-Web Design/Development · Front End · Back End · Full Stack · MERN Stack
+Web Design/Development
+UI/UX
+Graphic Design
+Game Development
+Full Stack Development
+· Front End 
+· Back End 
+· MERN Stack
 
 🎯 **Focus:**  
-Create art through design and develop interactive website and games for user entertainment. 
+Create interactive art through design and develop websites and games for user and public entertainment. 
 
 🌱 **Foundation:**  
 MERN stack - MongoDB, Express, React, Node.js.
 
 🎨 **Tools:**  
-Adobe Creative Suite, Canva, Figma, Sketch.
+Adobe Creative Suite
 
 🔥 **Passions:**
 
