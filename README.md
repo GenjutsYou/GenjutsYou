@@ -2,10 +2,7 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/GenjutsYou/count.svg" alt="Profile Views" />
-  <br>
-  <img src="https://img.shields.io/badge/viewers-00FF41?style=flat-square&labelColor=000&color=00FF41" alt="viewers" />
 </p>
-
 
 ---
 
@@ -17,8 +14,6 @@
 
 # Namaste 🙏🏽
 
-## My name is Arun Mundackal
-
 <!-- <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=I+Am+A+Software+Engineer;I+Am+A+Full+Stack+Developer;I+Am+A+Front+End+Developer;I+Am+A+UI/UX+Developer;I+Am+A+Back+End+Developer;I+Am+A+Graphic+Designer;A+Game+Development+Enthusiast;To+Infinity+%26+Beyond" 
        alt="Typing Animation"
@@ -26,7 +21,7 @@
   />
 </div> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" /> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=ambient_gradient" height="165" />
@@ -34,7 +29,7 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=ambient_gradient" height="165"/>
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=ambient_gradient" height="140"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=aura" height="140"/>
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=ambient_gradient" height="200"/>
   <br />
@@ -59,9 +54,7 @@ Computer Science | Software Engineer
 Web Design/Development · Front End · Back End · Full Stack · MERN Stack
 
 🎯 **Focus:**  
-Building robust, maintainable full stack applications with React, Node.js, Express, and MongoDB.  
-Experienced in REST APIs, UI/UX, and performance optimization.
-
+Create art through design and develop interactive website and games for user entertainment. 
 
 🌱 **Foundation:**  
 MERN stack - MongoDB, Express, React, Node.js.
@@ -87,8 +80,7 @@ Adobe Creative Suite, Canva, Figma, Sketch.
 </div>
 
 <p align="center">
-👾 **Gamer Tag:**
-GenjutsYou
+👾 GenjutsYou
 </p>
 
 🎮 **Currently Playing:**
@@ -96,7 +88,6 @@ GenjutsYou
 - Rocket League
 - Fortnite
 - GTA V
-- Hogwarts Legacy
 
 ---
 
