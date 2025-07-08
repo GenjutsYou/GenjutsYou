@@ -19,14 +19,27 @@
 
 ## My name is Arun Mundackal
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=600&lines=I+Am+A+Software+Engineer;I+Am+A+Full+Stack+Developer;I+Am+A+Front+End+Developer;I+Am+A+UI/UX+Developer;I+Am+A+Back+End+Developer;I+Am+A+Graphic+Designer;A+Game+Development+Enthusiast;To+Infinity+%26+Beyond" 
        alt="Typing Animation"
        style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;"
   />
-</div>
+</div> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GenjutsYou&show_icons=true&theme=matrix" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenjutsYou&layout=compact&theme=matrix" height="165" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=GenjutsYou&theme=matrix" height="165"/>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=GenjutsYou&theme=matrix" height="140"/>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenjutsYou&theme=matrix" height="200"/>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=GenjutsYou&style=flat-square&color=brightgreen" />
+</p>
 
 ---
 
@@ -138,6 +151,7 @@ GenjutsYou
       <td align="center"><b>Database</b></td>
       <td align="center"><b>Version Control</b></td>
       <td align="center"><b>DevOps / Cloud</b></td>
+      <td align="center"><b>Game Development</b></td>
     </tr>
     <tr>
       <!-- ===== DATABASE ===== -->
