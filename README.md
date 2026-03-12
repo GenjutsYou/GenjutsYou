@@ -32,8 +32,11 @@
 
 ---
 
-## 👋🏽 About Me
+## AUM 🕉️ 
 
+Namaste 🙏🏽 
+
+👋🏽 About Me
 I'm a versatile full stack developer specializing in the MERN stack, focused on creating engaging solutions that unite my technical skills with my interests in gaming, design, and digital art.
 
 💻  **Core:**  
